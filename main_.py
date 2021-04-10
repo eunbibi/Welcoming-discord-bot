@@ -38,7 +38,7 @@ async def on_message(message):
         await message.channel.send('Hello! We are group 2')
 
     elif message.content.startswith('$members'):
-        await message.channel.send('Aloy, Alussius\nCordeiro de Souza Puttomatti, Amanda\nKhaira, Gurkirat\nSeo, Anna Eunbi\nVolpe, Joseph')
+        await message.channel.send('a\nb\nc\nd\ne')
 
     elif message.content.startswith('$description'):
         await message.channel.send('The goal of our project is making a Discord Bot that will perform automated processes. Automated programs that look and act like users and automatically respond to events and commands on Discord are called bots. Discord bot users (or just bots) have nearly unlimited applications due to its “middle man”, like nature. This allows for flexable ideas/features which can be as simple as a string response when messaging the bot with a user, or using the bot to connect and display data on a database site.')
