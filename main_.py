@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-token = 'ODMwMTg0OTEyMDQwNDkzMDU3.YHC_8w.S606aDCtd0kPSsoOHIVqHeLKHrc'
+token = 'put ur token here'
 
 client = discord.Client()
 
